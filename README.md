@@ -89,32 +89,6 @@ socks4://ip:port
 
 ---
 
-## 📦 Build EXE (Windows)
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile --console --name "VF77" vf77.py
-```
-
-The executable will appear in:
-
-```
-dist/
-```
-
----
-
-## 🎨 CLI Banner
-
-```
- __     _______ _____ _____
- \ \   / /  ___|___  |___  |
-  \ \ / /| |_     / /   / /
-   \ V / |  _|   / /   / /
-    \_/  |_|    /_/   /_/
-```
-
----
 
 ## 📄 License
 
