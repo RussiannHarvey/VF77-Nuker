@@ -1,5 +1,5 @@
 VF77 Nuker
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.8%2B-blue"> <img src="https://img.shields.io/badge/Discord%20API-v10-brightgreen"> <img src="https://img.shields.io/badge/Async-aiohttp-orange"> <img src="https://img.shields.io/badge/License-MIT-red"> </p><p align="center"> <b>A high‑speed, asynchronous Discord server nuker with a stylish CLI interface.<br> Designed for maximum performance and ease of use.</b> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.8%2B-blue"> <img src="https://img.shields.io/badge/Discord%20API-v10-brightgreen"> <img src="https://img.shields.io/badge/Async-aiohttp-orange"> <img src="https://img.shields.io/badge/License-MIT-red"> </p><p align="center"> <b>A high‑speed, asynchronous Discord server nuker with a stylish CLI interface.<br> Designed for maximum performance and ease of use.</b> </p><p align="center"> <img src="https://github.com/user-attachments/assets/4b44523d-0807-432e-9bc9-7199c85eacab" alt="VF77 Nuker Screenshot" width="800"> </p>
 🔥 Features
 24 destructive commands – ban, kick, unban, channel/role nuking, webhook spam, mass DM, server settings, and more.
 
@@ -89,15 +89,6 @@ socks5://ip:port
 socks4://ip:port
 When prompted, answer y to enable proxy mode. VF77 will rotate proxies automatically and mark failed ones.
 
-📦 Compiling to EXE (Windows)
-To create a standalone Windows executable (no Python required), use PyInstaller:
-
-bash
-pip install pyinstaller
-pyinstaller --onefile --console --name "VF77_Nuker" vf77.py
-The executable will be placed in the dist folder.
-
-Note: Some antivirus programs may flag the generated .exe as a false positive due to its network activity. This is normal for tools that send many HTTP requests.
 
 ⚠️ Disclaimer
 This tool is intended for educational purposes only.
@@ -113,8 +104,8 @@ Feel free to modify, distribute, and use it within the bounds of the law and Dis
 💬 Support & Contributions
 Found a bug? Want a new feature? Open an issue or submit a pull request.
 All contributions are welcome!
-discord username : russianharvey
+
+Discord username: russianharvey
 
 <p align="center"> Made with ❤️ by <b>RussianHarvey</b> </p>
 
-<img width="1395" height="693" alt="Screenshot 2026-03-07 004929" src="https://github.com/user-attachments/assets/4b44523d-0807-432e-9bc9-7199c85eacab" />
